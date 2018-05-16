@@ -1,3 +1,6 @@
 React Tutorial
 
-I just updated this
+NOTES: 
+
+To commit changes to github:
+    git push https://github.com/joshcannella/react-tutorial
